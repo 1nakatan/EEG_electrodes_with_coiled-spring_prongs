@@ -22,7 +22,7 @@ The following is the procedure for making the electrodes, which are available to
 
 # CAUTION
 It is very rare to succeed in the first printing. So, if you fail, try again with different print settings and resin temperature.
-The published electrode structures, dimensions and print settings are optimized for shirayatech blu. If [blu by Siraya Tech](https://siraya.tech/products/blu-by-siraya-tech-for-lcd-resin-printers-1kg) does not print well, try changing the exposure time or bottom exposure time values. If the exposure time is too long, the print may become too thick, as shown below, and the print may not perform as it should.
+The published electrode structures, dimensions and print settings are optimized for  [blu by Siraya Tech](https://siraya.tech/products/blu-by-siraya-tech-for-lcd-resin-printers-1kg). If it does not print well, try changing the exposure time or bottom exposure time values. If the exposure time is too long, the print may become too thick, as shown below, and the print may not perform as it should.
 
 ![ERROR](https://github.com/1nakatan/omake/blob/master/img3.jpg "Exposure time is too long")
 
