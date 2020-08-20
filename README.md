@@ -17,6 +17,10 @@ The following is the procedure for making the electrodes, which are available to
 4. Apply conductive paint all over the surface as shown in the figure (in the picture, a part of the side of the electrode is removed).
 5. Attach the printed electrodes to the blue unit to which the stock electrodes were attached with the screws.
 
+![electrodes print settings](https://github.com/1nakatan/omake/blob/master/img1.jpg "Slice and print")
+![PAINT](https://github.com/1nakatan/omake/blob/master/img2.jpg "Cpnductive paste painting")
+
 # CAUTION!
 It is very rare to succeed in the first printing. So, if you fail, try again with different print settings and resin temperature.
 The published electrode structures, dimensions and print settings are optimized for shirayatech blu. If shirayatech blu does not print well, try changing the exposure time or bottom exposure time values. If the exposure time is too long, the print may become too thick, as shown below, and the print may not perform as it should.
+![ERROR](https://github.com/1nakatan/omake/blob/master/img3.jpg "Exposure time is too long")
