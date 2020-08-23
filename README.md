@@ -1,5 +1,9 @@
 # EEG_electrodes_with_spring_prongs
 
+This repsitory is based on the following paper.
+
+[M. Kimura, S. Nakatani, S.-I. Nishida, D. Taketoshi, and N. Araki, “3D Printable Dry EEG Electrodes with Coiled-Spring Prongs,” Sensors, vol. 20, no. 17, p. 4733, Aug. 2020.](https://www.mdpi.com/1424-8220/20/17/4733/htm)
+
 Four stl files are available in this repository: 
 - [spring.stl][1]
 - [cover.stl][2]
