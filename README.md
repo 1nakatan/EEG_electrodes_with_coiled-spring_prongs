@@ -1,6 +1,6 @@
 # EEG_electrodes_with_spring_prongs
 
-This repsitory is based on the following paper.
+This repository is based on the following paper.
 
 [M. Kimura, S. Nakatani, S.-I. Nishida, D. Taketoshi, and N. Araki, “3D Printable Dry EEG Electrodes with Coiled-Spring Prongs,” Sensors, vol. 20, no. 17, p. 4733, Aug. 2020.](https://www.mdpi.com/1424-8220/20/17/4733/htm)
 
@@ -26,7 +26,7 @@ The following is the procedure for making the electrodes, which are available to
 
 # CAUTION
 It is very rare to succeed in the first printing. If you fail, try again with different print settings (such as exposure time or bottom exposure time) and resin temperature.
-The published electrode structures, dimensions and print settings are optimized for  [blu by Siraya Tech](https://siraya.tech/products/blu-by-siraya-tech-for-lcd-resin-printers-1kg). If the exposure time is too long, the print may become too thick as shown below.
+The published electrode structures, dimensions and print settings are optimized for  [blu by Siraya Tech](https://siraya.tech/products/blu-by-siraya-tech-for-lcd-resin-printers-1kg). If the exposure time is too long, the print may become too thick not to work spring as shown below.
 
 ![ERROR](https://github.com/1nakatan/omake/blob/master/img3.jpg "Exposure time is too long")
 
